@@ -4,6 +4,7 @@
 {{-- section digunakan untuk memasukkan codingan baru ke dalam template (codingan dibawah akan masuk ke dalam @yield->container)--}}
 @section('container')
     <p>Website ini adalah website yang digunakan untuk belajar</p>
+    <p>Hello</p>
 @endsection
 
 @section('js')
